@@ -1,1 +1,1 @@
-"# douglasJovenil" 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=douglasJovenil&count_private=true&show_icons=true)

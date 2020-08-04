@@ -2,7 +2,7 @@
 
 Hey there, i am happy that you has arrived here! 😃
 
-A brief introduction about me, I work as IoT developer for two years ago, where I commonly help to create embedded products for industry, using low level using languages as C and C++ as in high level for creation of supervisory systems using HTML, JS, CSS among other languages.
+A brief introduction about me, I work as IoT developer at [IST Mecatrônica][ist] for two years ago, where I commonly help to create embedded products for industry, using low level using languages as C and C++ as in high level for creation of supervisory systems using HTML, JS, CSS among other languages.
 
 Besides that I'm a computer engineering student of [Universidade de Caxias do Sul][ucs] with plans to graduate in 2021.
 
@@ -26,7 +26,7 @@ Besides that I'm a computer engineering student of [Universidade de Caxias do Su
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Linux" width="26px" src="https://image.flaticon.com/icons/svg/25/25719.svg" />
 <img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
-<img align="left" alt="Arduino" width="26px" src="https://cdn.worldvectorlogo.com/logos/platformio.svg" />
+<img align="left" alt="Platformio" width="26px" src="https://cdn.worldvectorlogo.com/logos/platformio.svg" />
 
 <img align="left" alt="Raspberry" width="20px" src="https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png" />
 <img align="left" alt="NodeMCU" width="26px" src="https://domoticx.com/wp-content/uploads/2016/01/nodeMCU-logo.png" />
@@ -63,6 +63,8 @@ Besides that I'm a computer engineering student of [Universidade de Caxias do Su
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=douglasJovenil&count_private=true&show_icons=true)
 
+<img align="left" alt="C" src="https://github-readme-stats.vercel.app/api?username=douglasJovenil&count_private=true&show_icons=true" />
+
 # 
 
 ### Connect with me:
@@ -75,3 +77,4 @@ Besides that I'm a computer engineering student of [Universidade de Caxias do Su
 [nlw]: https://nextlevelweek.com
 [btc]: https://maratona.dev/
 [ucs]: https://www.ucs.br/
+[ist]: https://www.senairs.org.br/institutos/mecatronica

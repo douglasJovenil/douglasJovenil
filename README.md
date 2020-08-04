@@ -63,8 +63,6 @@ Besides that I'm a computer engineering student of [Universidade de Caxias do Su
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=douglasJovenil&count_private=true&show_icons=true)
 
-<img align="left" alt="C" src="https://github-readme-stats.vercel.app/api?username=douglasJovenil&count_private=true&show_icons=true" />
-
 # 
 
 ### Connect with me:

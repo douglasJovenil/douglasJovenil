@@ -2,7 +2,7 @@
 
 Hey there, i am happy that you has arrived here! 😃
 
-A brief introduction about me, I work as IoT developer at [IST Mecatrônica][ist] for two years ago, where I commonly help to create embedded products for industry, using low level using languages as C and C++ as in high level for creation of supervisory systems using HTML, JS, CSS among other languages.
+A brief introduction about me, I work as IoT developer at [IST Mecatrônica][ist] since 2018, where I commonly help to create embedded products for industry, using low level using languages as C and C++ as in high level for creation of supervisory systems using HTML, JS, CSS among other languages.
 
 Besides that I'm a computer engineering student of [Universidade de Caxias do Sul][ucs] with plans to graduate in 2021.
 
@@ -11,10 +11,6 @@ Besides that I'm a computer engineering student of [Universidade de Caxias do Su
 - 🔭 Participating in [Next Level Week][nlw]
 - 🌱 Participating in [<MARATONA/> behind the code 2020][btc]
 - 👯 I’m currently learning ReactJS and Flutter
-
-# Professional projects in progress
-- 🥅 Developing an app fot the control of a luminaire
-- ⚡ Developing an dashboard to supervise metrics of a tank
 
 # 
 

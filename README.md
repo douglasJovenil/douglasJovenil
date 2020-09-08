@@ -8,7 +8,6 @@ Besides that I'm a computer engineering student of [Universidade de Caxias do Su
 
 # Personal projects in progress
 
-- 🌱 Participating in [<MARATONA/> behind the code 2020][btc]
 - 👯 I’m currently learning ReactJS and Flutter
 
 # 

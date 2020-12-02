@@ -1,14 +1,8 @@
 # Douglas J. C. Santos
 
-Hey there, i am happy that you has arrived here! 😃
-
-A brief introduction about me, I work as IoT developer at [IST Mecatrônica][ist] since 2018, where I commonly help to create embedded products for industry, using low level using languages as C and C++ as in high level for creation of supervisory systems using HTML, JS, CSS among other languages.
+I work as IoT developer at [IST Mecatrônica][ist] since 2018, where I commonly help to create embedded products for industry, using low level using languages as C and C++ as in high level for creation of supervisory systems using HTML, JS, CSS among other languages.
 
 Besides that I'm a computer engineering student of [Universidade de Caxias do Sul][ucs] with plans to graduate in 2021.
-
-# Personal projects in progress
-
-- 👯 I’m currently learning ReactJS and Flutter
 
 # 
 
@@ -41,21 +35,6 @@ Besides that I'm a computer engineering student of [Universidade de Caxias do Su
 <img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="C" width="25px" src="https://i.imgur.com/NdoP6JD.png" />
 <br/>
-
-# 
-
-### Technologies to enhance
-
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-
-<br />
-
-# 
-
-### A little bit of statistics
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=douglasJovenil&count_private=true&show_icons=true)
 
 # 
 
